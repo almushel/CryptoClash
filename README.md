@@ -5,15 +5,15 @@ Made for Global Game Jam 2018. Windows build can be downloaded at https://global
 4 Xbox controllers recommended. Supports two players on keyboard.
 
 
-##Keyboard 1 controls:
+## Keyboard 1 controls:
 
->WASD - move the cursor
->Q - Rotate node counter-clockwise
->E - Rotate node clockwise
+* WASD - move the cursor
+* Q - Rotate node counter-clockwise
+* E - Rotate node clockwise
 
 
-##Keyboard 2 controls:
+## Keyboard 2 controls:
 
->Arrow keys - move the cursor
->, - Rotate node counter-clockwise
->. - Rotate node clockwise
+* Arrow keys - move the cursor
+* , - Rotate node counter-clockwise
+* . - Rotate node clockwise
